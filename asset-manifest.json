@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.e6c70f0e.chunk.css",
+    "main.css": "./static/css/main.3a020d6a.chunk.css",
     "main.js": "./static/js/main.67ed5d31.chunk.js",
     "main.js.map": "./static/js/main.67ed5d31.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.9d7e574d.js",
@@ -9,10 +9,10 @@
     "static/js/2.34e5cea5.chunk.js": "./static/js/2.34e5cea5.chunk.js",
     "static/js/2.34e5cea5.chunk.js.map": "./static/js/2.34e5cea5.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.ea99634286a3182b1d2e93655e0fd1e2.js": "./precache-manifest.ea99634286a3182b1d2e93655e0fd1e2.js",
+    "precache-manifest.2cc8daf819925dc3497f2c08665fa95e.js": "./precache-manifest.2cc8daf819925dc3497f2c08665fa95e.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.78f5c875.chunk.css.map": "./static/css/2.78f5c875.chunk.css.map",
-    "static/css/main.e6c70f0e.chunk.css.map": "./static/css/main.e6c70f0e.chunk.css.map",
+    "static/css/main.3a020d6a.chunk.css.map": "./static/css/main.3a020d6a.chunk.css.map",
     "static/media/Fonts.css": "./static/media/WC-Mano-Negra-Bta.d9521fb6.otf",
     "static/media/heart.67f84b51.svg": "./static/media/heart.67f84b51.svg",
     "static/media/heart_filled.abf7ef8a.svg": "./static/media/heart_filled.abf7ef8a.svg"
